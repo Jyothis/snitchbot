@@ -1,0 +1,4 @@
+This is snitchbot, a simple edit reporter
+
+snitch sits in freenode, snatch sits in wikimedia irc. Use the existing sample settings file and replace nickname = '<Replace with Bot Nick>' in the snitchbot.py to get started. Will need to create a sqlite3 db file as well to get going.
+
